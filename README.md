@@ -1,7 +1,10 @@
 ## Beer Me
 Contributors : Myself, Matt, Kellen, Andrew
+
 Original Repo: https://github.com/ajmyers5/Group-666
+
 Deployed App: https://ajmyers5.github.io/Group-666/
+
 
 ## USERSTORY:
 AS A beer connoisseur, I WANT a list of close breweries, SO THAT I can chose which one I'm most interested in from a list of options
