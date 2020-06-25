@@ -1,5 +1,7 @@
-# Group-666 - Project 1 "Beer Me"
-Project 1 : Matt, John, Kellen, Andrew
+## Beer Me
+Contributors : Myself, Matt, Kellen, Andrew
+Original Repo: https://github.com/ajmyers5/Group-666
+Deployed App: https://ajmyers5.github.io/Group-666/
 
 ## USERSTORY:
 AS A beer connoisseur, I WANT a list of close breweries, SO THAT I can chose which one I'm most interested in from a list of options
@@ -46,8 +48,22 @@ Beer Me simplifies users search for local breweries.
 ## How to use?
 Enter desired city name.  A map will populate close breweries where you will be able to select a brewery and view it's name and address. By clicking "More Details" in the pop-up you can view the brewery's price rating, phone number, and website.
 
-## Links
-https://ajmyers5.github.io/Group-666/
-https://github.com/ajmyers5/Group-666
+## Technologies Used
 
+HTML
 
+CSS
+
+JavaScript
+
+JQuery
+
+FourSquare API
+
+Mapbox API
+
+Bulma
+
+Granim.js
+
+Particles.js
