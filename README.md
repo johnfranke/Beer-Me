@@ -1,9 +1,10 @@
 ## Beer Me
+
+Deployed App: https://johnfranke.github.io/Beer-Me/
+
 Contributors : Myself, Matt, Kellen, Andrew
 
 Original Repo: https://github.com/ajmyers5/Group-666
-
-Deployed App: https://ajmyers5.github.io/Group-666/
 
 
 ## USERSTORY:
